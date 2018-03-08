@@ -14,7 +14,7 @@ class Office(models.Model):
         return self.name
 
 from django.urls import reverse
-
+# workers классынын моделин куру
 class Workers(models.Model):
 
     job_name = models.CharField(max_length=200)
