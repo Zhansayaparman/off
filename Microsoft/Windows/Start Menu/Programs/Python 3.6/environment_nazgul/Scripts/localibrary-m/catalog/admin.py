@@ -8,6 +8,7 @@ from .models import Admin, Office, Workers
 # admin.site.register(Workers)
 # admin.site.register(Admin)
 # Define the admin class
+#model
 class AdminInstanceInline(admin.TabularInline):
     model = Workers
 
