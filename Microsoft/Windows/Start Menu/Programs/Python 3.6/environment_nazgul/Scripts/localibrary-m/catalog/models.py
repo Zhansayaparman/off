@@ -36,7 +36,7 @@ class Workers(models.Model):
 
 
 import uuid
-
+#admin model костым
 class Admin(models.Model):
 
     first_name = models.CharField(max_length=100)
