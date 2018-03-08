@@ -1,0 +1,51 @@
+[2018.03.06 23:32:44] Launched version: 1002006, alpha: [FALSE], beta: 0, debug mode: [FALSE], test dc: [FALSE]
+[2018.03.06 23:32:44] Executable dir: C:/Users/Мои документы/AppData/Roaming/Telegram Desktop/, name: Telegram.exe
+[2018.03.06 23:32:44] Initial working dir: C:/Users/Мои документы/AppData/Roaming/Telegram Desktop/
+[2018.03.06 23:32:44] Working dir: C:/Users/Мои документы/AppData/Roaming/Telegram Desktop/
+[2018.03.06 23:32:44] Command line: C:\Users\Мои документы\AppData\Roaming\Telegram Desktop\Telegram.exe
+[2018.03.06 23:32:44] Executable path before check: C:/Users/Мои документы/AppData/Roaming/Telegram Desktop/Telegram.exe
+[2018.03.06 23:32:44] Logs started
+[2018.03.06 23:32:44] Connecting local socket to Global\3c6aa9e8b32ef6e8002dad320682b491-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2018.03.06 23:32:44] This is the only instance of Telegram, starting server and app...
+[2018.03.06 23:32:44] Moved logging from 'C:/Users/Мои документы/AppData/Roaming/Telegram Desktop/log_start0.txt' to 'C:/Users/Мои документы/AppData/Roaming/Telegram Desktop/log.txt'!
+[2018.03.06 23:32:44] Opened 'C:/Users/Мои документы/AppData/Roaming/Telegram Desktop/tdata/working' for reading, the previous Telegram Desktop launch was not finished properly :( Crash log size: 0
+[2018.03.06 23:32:44] App Info: reading settings...
+[2018.03.06 23:32:44] App Info: reading encrypted settings...
+[2018.03.06 23:32:44] Lang Info: Loaded cached, keys: 1579
+[2018.03.06 23:32:44] Lang Error: Unknown key 'lng_channel_admin_sure'
+[2018.03.06 23:32:44] Lang Error: Unknown key 'lng_context_remove_admin'
+[2018.03.06 23:32:44] Lang Error: Unknown key 'lng_send_images_compress#few'
+[2018.03.06 23:32:44] Lang Error: Unknown key 'lng_send_images_compress#many'
+[2018.03.06 23:32:44] Lang Error: Unknown key 'lng_send_images_compress#one'
+[2018.03.06 23:32:44] Lang Error: Unknown key 'lng_send_images_compress#other'
+[2018.03.06 23:32:44] Lang Error: Unknown key 'lng_send_images_compress#two'
+[2018.03.06 23:32:44] Lang Error: Unknown key 'lng_send_images_compress#zero'
+[2018.03.06 23:32:44] OpenAL Logging Level: (not set)
+[2018.03.06 23:32:44] Audio Playback Devices: OpenAL Soft
+[2018.03.06 23:32:44] Audio Playback Default Device: OpenAL Soft
+[2018.03.06 23:32:46] Audio Capture Devices: OpenAL Soft on РњРёРєСЂРѕС„РѕРЅ (Conexant SmartAudio HD)
+[2018.03.06 23:32:46] Audio Capture Default Device: OpenAL Soft on РњРёРєСЂРѕС„РѕРЅ (Conexant SmartAudio HD)
+[2018.03.06 23:32:49] App Info: reading map...
+[2018.03.06 23:32:49] App Info: reading encrypted map...
+[2018.03.06 23:32:49] App Info: reading encrypted user settings...
+[2018.03.06 23:32:49] App Info: encrypted user settings read.
+[2018.03.06 23:32:49] App Info: reading encrypted mtp data...
+[2018.03.06 23:32:49] MTP Info: read keys, current: 3, to destroy: 0
+[2018.03.06 23:32:49] Map read time: 494
+[2018.03.06 23:32:49] Window Shadow: 1, 1, 3, 4, 6, 9, 13, 18, 24, 31, 38, 46
+[2018.03.06 23:32:50] Lang Info: Up to date.
+[2018.03.06 23:32:56] Show Peer Start
+[2018.03.06 23:32:56] Show Peer End: 6
+[2018.03.06 23:33:21] Show Peer Start
+[2018.03.06 23:33:21] Show Peer End: 1
+[2018.03.06 23:45:15] Show Peer Start
+[2018.03.06 23:45:15] Show Peer End: 3
+[2018.03.06 23:47:57] Audio Info: recreating audio device and reattaching the tracks
+[2018.03.06 23:47:59] Audio Info: Closing audio playback device.
+[2018.03.06 23:48:08] Show Peer Start
+[2018.03.06 23:48:08] Show Peer End: 7
+[2018.03.06 23:48:13] Skipping message, because it is already in blocks!
+[2018.03.06 23:48:34] Show Peer Start
+[2018.03.06 23:48:34] Show Peer End: 6
+[2018.03.06 23:49:14] Audio Info: recreating audio device and reattaching the tracks
+[2018.03.06 23:49:16] Audio Info: Closing audio playback device.

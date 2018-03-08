@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlacementStruct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StructLength>44</StructLength>
+  <MinimizedState>0</MinimizedState>
+  <ShowCmd>1</ShowCmd>
+  <MinPosition>
+    <X>-1</X>
+    <Y>-1</Y>
+  </MinPosition>
+  <MaxPosition>
+    <X>-1</X>
+    <Y>-1</Y>
+  </MaxPosition>
+  <MainWinDimensions>
+    <Location>
+      <X>156</X>
+      <Y>156</Y>
+    </Location>
+    <Size>
+      <Width>1181</Width>
+      <Height>756</Height>
+    </Size>
+    <X>156</X>
+    <Y>156</Y>
+    <Width>1181</Width>
+    <Height>756</Height>
+  </MainWinDimensions>
+</PlacementStruct>

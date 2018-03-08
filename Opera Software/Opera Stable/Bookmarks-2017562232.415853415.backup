@@ -1,0 +1,599 @@
+{
+   "checksum": "f03ff36119e8b9602e250efab276693f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13111178642622280",
+            "id": "2",
+            "name": "Яндекс",
+            "type": "url",
+            "url": "http://www.yandex.ru/?win=220&clid=2154483&from=dist_bookmark"
+         }, {
+            "date_added": "13111178642622331",
+            "id": "3",
+            "name": "Почта",
+            "type": "url",
+            "url": "http://mail.yandex.ru/?win=220&clid=2154483&from=dist_bookmark"
+         } ],
+         "date_added": "13091281870535238",
+         "date_modified": "0",
+         "id": "1",
+         "name": "Панель закладок",
+         "type": "folder"
+      },
+      "custom_root": {
+         "shared": {
+            "children": [  ],
+            "date_added": "13091281871385703",
+            "date_modified": "0",
+            "id": "12",
+            "name": "Общие закладки",
+            "type": "folder"
+         },
+         "speedDial": {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13130132364041575",
+                  "id": "15",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "c17e7f7e-e580-11e6-8701-7077811658c8",
+                     "imageDataType": "2",
+                     "imageID": "31e3e33a-b9f0-4d78-8f06-ce13f46aab08",
+                     "imageType": "2",
+                     "partner_id": "",
+                     "partner_url": "",
+                     "redirect": "0"
+                  },
+                  "name": "auto.ru",
+                  "type": "url",
+                  "url": "https://auto.ru/?from=dist_vz&win=265&clid=2255944"
+               }, {
+                  "date_added": "13111178642622666",
+                  "id": "16",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "198EDC0B-DF91-490B-8C6C-1F972F19ED03",
+                     "imageDataType": "2",
+                     "imageID": "2520C740-A980-4C0D-AE45-97A94AC4DF9B",
+                     "imageType": "2",
+                     "last_visited_desktop": "13135714105949403",
+                     "partner_id": "",
+                     "partner_url": "",
+                     "redirect": "0"
+                  },
+                  "name": "Яндекс.Почта",
+                  "type": "url",
+                  "url": "http://mail.yandex.ru/?from=dist_vz&win=220&clid=2154485"
+               }, {
+                  "date_added": "13091281874332280",
+                  "id": "17",
+                  "meta_info": {
+                     "custom_keywords": "[\"Яндекс\",\"поиск\",\"Yandex\",\"search\"]",
+                     "guid": "2E5C012C-B106-4A3B-A0EB-9F7DDE9A8D2B",
+                     "imageData": "http://redir.opera.com/speeddials/partner/yandex_ru",
+                     "imageDataType": "2",
+                     "imageID": "E3CEE9EB3297FA8ABDE31F98A71542B89D1EA5EF5813194CAF09E2BFE1E71DBE",
+                     "imageType": "2",
+                     "partner_id": "yandex_ru",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/yandex_ru",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/yandex_ru",
+                     "redirect": "1"
+                  },
+                  "name": "Яндекс",
+                  "type": "url",
+                  "url": "http://www.yandex.ru/"
+               }, {
+                  "date_added": "13099838745814022",
+                  "id": "18",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "FE88462E-10B6-4BD7-857A-ACAC8AC087B8",
+                     "partner_id": "",
+                     "partner_image_download_url": "",
+                     "partner_url": "",
+                     "redirect": "0"
+                  },
+                  "name": "Просмотр фильмов в хорошем качестве. - 11 Февраля 2016 - Халявин",
+                  "type": "url",
+                  "url": "http://halyavin.ru/news/prosmotr_filmov_v_khoroshem_kachestve/2016-02-11-741"
+               }, {
+                  "date_added": "13124903321577268",
+                  "id": "19",
+                  "meta_info": {
+                     "last_visited_desktop": "13137270101768195"
+                  },
+                  "name": "vk.com",
+                  "type": "url",
+                  "url": "https://vk.com/friends"
+               }, {
+                  "date_added": "13124903341311253",
+                  "id": "20",
+                  "meta_info": {
+                     "last_visited_desktop": "13137350057854311"
+                  },
+                  "name": "Новости | КазНТУ - Образовательный портал",
+                  "type": "url",
+                  "url": "http://portal.kazntu.kz/"
+               }, {
+                  "date_added": "13124903354530076",
+                  "id": "21",
+                  "meta_info": {
+                     "last_visited_desktop": "13133837327408203"
+                  },
+                  "name": "google.com",
+                  "type": "url",
+                  "url": "http://google.com/"
+               }, {
+                  "date_added": "13124903394901817",
+                  "id": "22",
+                  "meta_info": {
+                     "last_visited_desktop": "13132232494289204"
+                  },
+                  "name": "mail.ru",
+                  "type": "url",
+                  "url": "http://mail.ru/"
+               }, {
+                  "date_added": "13125001771571920",
+                  "id": "23",
+                  "name": "integral (dp)/p =integral -(2dx)/x - Definite Integral Calculato",
+                  "type": "url",
+                  "url": "https://www.symbolab.com/solver/definite-integral-calculator/%5Cint%20%5Cfrac%7Bdp%7D%7Bp%7D%3D%5Cint%20-%5Cfrac%7B2dx%7D%7Bx%7D"
+               }, {
+                  "date_added": "13125001870079315",
+                  "id": "24",
+                  "meta_info": {
+                     "imageDataType": "2",
+                     "imageID": "E9E2EB007C488DCC899ACC1FCD9754E1B893580BFEB48F1B9D4104EA7ABBC5C0",
+                     "imageIdentifier": "2fe3c16f",
+                     "imageType": "2",
+                     "last_visited_desktop": "13136923660865168"
+                  },
+                  "name": "youtube.com",
+                  "type": "url",
+                  "url": "https://www.youtube.com/"
+               }, {
+                  "date_added": "13125001944339786",
+                  "id": "25",
+                  "name": "instagram.com",
+                  "type": "url",
+                  "url": "http://instagram.com/"
+               }, {
+                  "date_added": "13128702819939513",
+                  "id": "26",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "e02a8a5c-c137-4069-8505-c303ab5b6c13",
+                     "imageData": "http://redir.opera.com/speeddials/partner/wildberries_ru",
+                     "imageDataType": "2",
+                     "imageID": "8D06C94B5352D3532F49549C815A605A355DFE5307BC77D0865E463D89CC49A7",
+                     "imageType": "2",
+                     "partner_id": "wildberries_ru",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/wildberries_ru",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/wildberries_ru",
+                     "redirect": "1"
+                  },
+                  "name": "Wildberries",
+                  "type": "url",
+                  "url": "http://www.wildberries.ru/"
+               }, {
+                  "date_added": "13129148272217239",
+                  "id": "27",
+                  "meta_info": {
+                     "last_visited_desktop": "13136926019442597"
+                  },
+                  "name": "Вход – Google Аккаунты",
+                  "type": "url",
+                  "url": "https://www.gmail.com/"
+               }, {
+                  "date_added": "13132339295872482",
+                  "id": "47",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "624ca5f3-31bd-48b0-aa3f-305fec5debe1",
+                     "imageData": "http://redir.opera.com/speeddials/partner/lamoda_ru",
+                     "imageDataType": "2",
+                     "imageID": "CF18811D2F3F04C668B7BEC8DDD6271AA788AD9444CEE8847DABC705C58051AC",
+                     "imageType": "2",
+                     "partner_id": "lamoda_ru",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/lamoda_ru",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/lamoda_ru",
+                     "redirect": "1"
+                  },
+                  "name": "LaModa",
+                  "type": "url",
+                  "url": "http://www.lamoda.ru/"
+               }, {
+                  "children": [ {
+                     "date_added": "13132339295874491",
+                     "id": "49",
+                     "meta_info": {
+                        "custom_keywords": "[\"прогноз\",\"погода\",\"карты\",\"осадки\",\"ветер\",\"влажность\",\"давление\"]",
+                        "guid": "5BC49F5E-1B30-11E5-B84C-F65CEB8A2689",
+                        "imageData": "http://redir.opera.com/speeddials/partner/gismeteo_ru_new",
+                        "imageDataType": "2",
+                        "imageID": "224918056EFF28F17DF41497004658246B6CFADB3631701D684F4FC8F0A0F4E3",
+                        "imageType": "2",
+                        "partner_id": "gismeteo_ru_new",
+                        "partner_image_download_url": "http://redir.opera.com/speeddials/partner/gismeteo_ru_new",
+                        "partner_url": "http://redir.opera.com/speeddials/partner/gismeteo_ru_new",
+                        "redirect": "1"
+                     },
+                     "name": "Прогноз погоды Gismeteo",
+                     "type": "url",
+                     "url": "http://www.gismeteo.ru/"
+                  } ],
+                  "date_added": "13132339295873901",
+                  "date_modified": "13132339295874491",
+                  "id": "48",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "453BB67A-86C5-4741-9BAB-28E4DFD769DD",
+                     "partner_id": "",
+                     "partner_image_download_url": "",
+                     "partner_url": "",
+                     "redirect": "0"
+                  },
+                  "name": "",
+                  "type": "folder"
+               } ],
+               "date_added": "13091281871385837",
+               "date_modified": "13132339295872482",
+               "id": "14",
+               "meta_info": {
+                  "speed_dial_root_folder_guid": "451ACBAD-CBC6-42A1-81D9-6FDCC27D68B7"
+               },
+               "name": "LENOVO-PC",
+               "type": "folder"
+            } ],
+            "date_added": "13091281871385706",
+            "date_modified": "0",
+            "id": "13",
+            "name": "Экспресс-панель",
+            "type": "folder"
+         },
+         "trash": {
+            "children": [ {
+               "date_added": "13111178642622616",
+               "id": "29",
+               "meta_info": {
+                  "custom_keywords": "[]",
+                  "guid": "F0690000-5EF7-4A2F-BB7E-FFCC7E686B97",
+                  "imageDataType": "2",
+                  "imageID": "E152BD2E-AEE1-4AD6-8740-CDB3DAA2C82E",
+                  "imageType": "2",
+                  "partner_id": "",
+                  "partner_url": "",
+                  "redirect": "0"
+               },
+               "name": "Яндекс.Недвижимость",
+               "type": "url",
+               "url": "https://realty.yandex.ru/?from=dist_vz&win=220&clid="
+            }, {
+               "date_added": "13091281874333309",
+               "id": "30",
+               "meta_info": {
+                  "custom_keywords": "[]",
+                  "guid": "F55E8FDE-9BED-47D3-AC55-5505B08FC59B",
+                  "imageData": "http://redir.opera.com/speeddials/partner/rambler_ru_ru",
+                  "imageDataType": "2",
+                  "imageID": "EF5390BDC0476D608AFECA9E5347C7C6E0F16A8F369A9B9BC5D4A8414B853FCB",
+                  "imageType": "2",
+                  "partner_id": "rambler_ru_ru",
+                  "partner_image_download_url": "http://redir.opera.com/speeddials/partner/rambler_ru_ru",
+                  "partner_url": "http://redir.opera.com/speeddials/partner/rambler_ru_ru",
+                  "redirect": "1"
+               },
+               "name": "Рамблер",
+               "type": "url",
+               "url": "http://www.rambler.ru/"
+            }, {
+               "date_added": "13091281874333034",
+               "id": "31",
+               "meta_info": {
+                  "custom_keywords": "[\"отель\",\"гостиница\",\"hotel\",\"hotels\",\"hostel\",\"hostels\",\"holidays\",\"special offers\",\"specials\",\"packages\",\"weekend breaks\",\"city breaks\",\"deals\",\"budget\",\"cheap\",\"discount\",\"savings\"]",
+                  "guid": "238D5C94-C774-426F-8B3F-C40BABA6925E",
+                  "imageData": "http://redir.opera.com/speeddials/partner/booking_com_ru",
+                  "imageDataType": "2",
+                  "imageID": "1C6E16D104AEC48B14F29257CD0B71EA3BCE56115F8F2FAD4B56758FDB623988",
+                  "imageType": "2",
+                  "partner_id": "booking_com_ru",
+                  "partner_image_download_url": "http://redir.opera.com/speeddials/partner/booking_com_ru",
+                  "partner_url": "http://redir.opera.com/speeddials/partner/booking_com_ru",
+                  "redirect": "1"
+               },
+               "name": "Бронирование отелей",
+               "type": "url",
+               "url": "http://www.booking.com/"
+            }, {
+               "date_added": "13118246973130271",
+               "id": "32",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "CCACFE603DF19780BE106D4EDBCA41B3340D4CCA92D1079F1C62014AF2A1F006",
+                  "imageIdentifier": "2fee8886",
+                  "imageType": "2"
+               },
+               "name": "The Python Tutorial — Python 3.5.2 documentation",
+               "type": "url",
+               "url": "https://docs.python.org/3.5/tutorial/index.html"
+            }, {
+               "children": [ {
+                  "date_added": "13091281874335169",
+                  "id": "34",
+                  "meta_info": {
+                     "custom_keywords": "[\"Opera\",\"Opera Software\"]",
+                     "guid": "5325D725-9C3B-4A68-B8BE-94AB2DD66E83",
+                     "imageData": "http://redir.opera.com/speeddials/partner/product_ru",
+                     "imageDataType": "2",
+                     "imageID": "ACCD0EF4D421AEA91D4E77FF118F924C8DCDC4CBB9A037D63EA25EA23E8B6E2F",
+                     "imageType": "2",
+                     "partner_id": "product_ru",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/product_ru",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/product_ru",
+                     "redirect": "1"
+                  },
+                  "name": "Оставайтесь с нами на связи",
+                  "type": "url",
+                  "url": "http://www.opera.com/ru/follow"
+               }, {
+                  "date_added": "13091281874335711",
+                  "id": "35",
+                  "meta_info": {
+                     "custom_keywords": "[\"Media Markt\"]",
+                     "guid": "C05ED43F-A6A6-4525-B015-1EFF6387F5E3",
+                     "imageData": "http://redir.opera.com/speeddials/partner/mediamarkt_ru",
+                     "imageDataType": "2",
+                     "imageID": "F20492C53F750B2738AC21AC733BAC59E1F1F97C60AE349E3F3219EC08B4FB05",
+                     "imageType": "2",
+                     "partner_id": "mediamarkt_ru",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/mediamarkt_ru",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/mediamarkt_ru",
+                     "redirect": "1"
+                  },
+                  "name": "Техника по низким ценам",
+                  "type": "url",
+                  "url": "http://www.mediamarkt.ru/"
+               }, {
+                  "date_added": "13091281874336526",
+                  "id": "36",
+                  "meta_info": {
+                     "custom_keywords": "[\"авто\",\"автомобили\",\"форумы\",\"автофорум\",\"продажа б/у\",\"пробег\",\"подержанные\",\"продажа авто\",\"продажа автомобилей\",\"отзывы\",\"автовладельцы\",\"объявления\",\"цены\",\"продажа\",\"toyota\",\"nissan\",\"mitsubishi\",\"honda\",\"mazda\",\"suzuki\",\"subaru\",\"audi\",\"bmw\",\"ford\",\"opel\",\"kia\",\"hyundai\",\"каталог\"]",
+                     "guid": "F1E6F195-41DA-4257-B790-84990F3BD41C",
+                     "imageData": "http://redir.opera.com/speeddials/partner/drom_ru",
+                     "imageDataType": "2",
+                     "imageID": "0C94C428A885BFA2504DEBC1E409C3D57C210CD0E8E37CEAD00311CA8DCD21E8",
+                     "imageType": "2",
+                     "partner_id": "drom_ru",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/drom_ru",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/drom_ru",
+                     "redirect": "1"
+                  },
+                  "name": "Автомобильный портал",
+                  "type": "url",
+                  "url": "http://www.drom.ru/"
+               }, {
+                  "date_added": "13091281874337656",
+                  "id": "37",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "A215DAE4-1FD2-11E5-A33C-2A3D4B860EDE",
+                     "imageData": "http://redir.opera.com/speeddials/partner/investing_com_ru",
+                     "imageDataType": "2",
+                     "imageID": "10B3060218E8E6477BFCADCA5F8B70508E4C5552A93511FE1F3B1B656D780A9F",
+                     "imageType": "2",
+                     "partner_id": "investing_com_ru",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/investing_com_ru",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/investing_com_ru",
+                     "redirect": "1"
+                  },
+                  "name": "Investing.com",
+                  "type": "url",
+                  "url": "http://investing.com/"
+               }, {
+                  "date_added": "13111178643144090",
+                  "id": "38",
+                  "meta_info": {
+                     "custom_keywords": "[\"eBay\",\"electronics\",\"cars\",\"clothing\",\"apparel\",\"collectables\",\"sporting goods\",\"digital cameras\",\"antiques\",\"tickets\",\"jewellery\",\"online shopping\",\"auction\",\"online auction\"]",
+                     "guid": "F9BBE16C-1E38-11E5-B9D4-B913C081C9B5",
+                     "imageData": "http://redir.opera.com/speeddials/partner/ebay_ru",
+                     "imageDataType": "2",
+                     "imageID": "1F1E2F3D706796225F0DDA1D337BE6397D367263E5B297C932C0FB1EA95F1382",
+                     "imageType": "2",
+                     "partner_id": "ebay_ru",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/ebay_ru",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/ebay_ru",
+                     "redirect": "1"
+                  },
+                  "name": "eBay",
+                  "type": "url",
+                  "url": "http://www.ebay.ru/"
+               }, {
+                  "date_added": "13111178866406026",
+                  "id": "39",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "1DA2174E-56F2-11E5-8F09-75CA8BD11E5D",
+                     "imageData": "http://redir.opera.com/speeddials/partner/huawei_ru",
+                     "imageDataType": "2",
+                     "imageID": "5881797F0DB2EE6ACB77B19A3ABEBC3D814ADFEDEE9F7D1AB84F5DDDAA4A3CE6",
+                     "imageType": "2",
+                     "partner_id": "huawei_ru",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/huawei_ru",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/huawei_ru",
+                     "redirect": "1"
+                  },
+                  "name": "Новинки Honor",
+                  "type": "url",
+                  "url": "http://shop.huawei.ru/"
+               }, {
+                  "date_added": "13115492220228755",
+                  "id": "40",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "e69e09b9-3309-46af-b204-5e0204852c94",
+                     "imageData": "http://redir.opera.com/speeddials/partner/tutu_ru",
+                     "imageDataType": "2",
+                     "imageID": "F96A7D120C745D49F59C7B0F468E52A05F7C19A1700A67A860FA317E788AA356",
+                     "imageType": "2",
+                     "partner_id": "tutu_ru",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/tutu_ru",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/tutu_ru",
+                     "redirect": "1"
+                  },
+                  "name": "Ж/д билеты онлайн",
+                  "type": "url",
+                  "url": "http://tutu.ru/poezda/?utm_source=opera"
+               } ],
+               "date_added": "13091281874335036",
+               "date_modified": "13115492220228755",
+               "id": "33",
+               "meta_info": {
+                  "custom_keywords": "[]",
+                  "guid": "453BB67A-86C5-4741-9BAB-28E4DFD769DD",
+                  "partner_id": "",
+                  "partner_image_download_url": "",
+                  "partner_url": "",
+                  "redirect": "0"
+               },
+               "name": "",
+               "type": "folder"
+            }, {
+               "date_added": "13091281874334721",
+               "id": "41",
+               "meta_info": {
+                  "custom_keywords": "[\"прогноз\",\"погода\",\"карты\",\"осадки\",\"ветер\",\"влажность\",\"давление\"]",
+                  "guid": "5BC49F5E-1B30-11E5-B84C-F65CEB8A2689",
+                  "imageData": "http://redir.opera.com/speeddials/partner/gismeteo_ru_new",
+                  "imageDataType": "2",
+                  "imageID": "224918056EFF28F17DF41497004658246B6CFADB3631701D684F4FC8F0A0F4E3",
+                  "imageType": "2",
+                  "partner_id": "gismeteo_ru_new",
+                  "partner_image_download_url": "http://redir.opera.com/speeddials/partner/gismeteo_ru_new",
+                  "partner_url": "http://redir.opera.com/speeddials/partner/gismeteo_ru_new",
+                  "redirect": "1"
+               },
+               "name": "Прогноз погоды Gismeteo",
+               "type": "url",
+               "url": "http://www.gismeteo.ru/"
+            }, {
+               "date_added": "13111178643142822",
+               "id": "42",
+               "meta_info": {
+                  "custom_keywords": "[]",
+                  "guid": "627FA3D2-1B63-11E6-AB70-80DCFB46F5D2",
+                  "imageData": "",
+                  "imageDataType": "2",
+                  "imageID": "F885B4060044588AC297096E89EBFD7478D864B8DF37764E601EDCDCD0CF9F23",
+                  "imageIdentifier": "none",
+                  "imageType": "0",
+                  "partner_id": "aliexpress_com_ru",
+                  "partner_image_download_url": "http://redir.opera.com/speeddials/partner/aliexpress_com_ru",
+                  "partner_url": "http://redir.opera.com/speeddials/partner/aliexpress_com_ru",
+                  "redirect": "1"
+               },
+               "name": "KazNTU",
+               "type": "url",
+               "url": "http://aliexpress.com/"
+            } ],
+            "date_added": "13091281871385709",
+            "date_modified": "13124903311894671",
+            "id": "28",
+            "name": "Корзина",
+            "type": "folder"
+         },
+         "unsorted": {
+            "children": [ {
+               "date_added": "13111178642623269",
+               "id": "44",
+               "name": "Яндекс",
+               "type": "url",
+               "url": "http://www.yandex.ru/?win=220&clid=2154483&from=dist_bookmark"
+            }, {
+               "date_added": "13111178642623289",
+               "id": "45",
+               "name": "Почта",
+               "type": "url",
+               "url": "http://mail.yandex.ru/?win=220&clid=2154483&from=dist_bookmark"
+            } ],
+            "date_added": "13091281871385697",
+            "date_modified": "0",
+            "id": "43",
+            "name": "Несортированные закладки",
+            "type": "folder"
+         },
+         "userRoot": {
+            "children": [ {
+               "date_added": "13134762947342491",
+               "id": "50",
+               "meta_info": {
+                  "last_visited_desktop": "13135415071981332"
+               },
+               "name": "Download RODIN from SourceForge.net",
+               "type": "url",
+               "url": "https://sourceforge.net/projects/rodin-b-sharp/files/latest/download?source=files"
+            } ],
+            "date_added": "13091281871385700",
+            "date_modified": "13134762947342491",
+            "id": "46",
+            "name": "Мои папки",
+            "type": "folder"
+         }
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13091218718566337",
+                  "id": "7",
+                  "name": "Lenovo Support",
+                  "type": "url",
+                  "url": "http://support.lenovo.com/"
+               }, {
+                  "date_added": "13091218718550664",
+                  "id": "8",
+                  "name": "Lenovo",
+                  "type": "url",
+                  "url": "http://www.lenovo.com/"
+               } ],
+               "date_added": "13091281872770220",
+               "date_modified": "0",
+               "id": "6",
+               "name": "Lenovo",
+               "type": "folder"
+            }, {
+               "date_added": "13091219561513653",
+               "id": "9",
+               "name": "Mail.Ru Агент - используй для общения!",
+               "type": "url",
+               "url": "http://agent.mail.ru/ru/download/agent_windows/download.html?sputnik=1"
+            }, {
+               "date_added": "13091219561498046",
+               "id": "10",
+               "name": "Mail.Ru",
+               "type": "url",
+               "url": "http://www.mail.ru/cnt/7861"
+            } ],
+            "date_added": "13091281872770210",
+            "date_modified": "0",
+            "id": "5",
+            "name": "Импортировано из Internet Explorer",
+            "type": "folder"
+         } ],
+         "date_added": "13091281870535818",
+         "date_modified": "0",
+         "id": "4",
+         "name": "Другие закладки",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13091281870535826",
+         "date_modified": "0",
+         "id": "11",
+         "name": "Закладки на мобильном",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
