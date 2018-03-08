@@ -19,7 +19,7 @@ class workAdmin(admin.ModelAdmin):
     fields = ['first_name', 'last_name', ('date_of_birt')]
 
 
-# Register the admin class with the associated model
+# админ классына регистрация жасаймыз
 admin.site.register(Admin, workAdmin)
 
 admin.site.register(Office)
